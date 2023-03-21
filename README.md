@@ -1,5 +1,3 @@
-Sure, here's the markdown formatted version of the readme file, adjusted to fit the template you provided:
-
 ### Introduction
 
 This repository contains a collection of fun coding challenges that I completed using the Racket programming language. The challenges vary in difficulty and cover various programming concepts.

@@ -1,4 +1,4 @@
-###Fun Racket Coding Challenges
+### Fun Racket Coding Challenges
 
 This repository contains a collection of fun coding challenges that I completed using the Racket programming language. The challenges vary in difficulty and cover various programming concepts.
 Getting Started
